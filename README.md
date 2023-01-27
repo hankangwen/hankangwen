@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hankangwen
-- 👀 I’m interested in 'how to make game with unity
+- 👀 I’m interested in 'how to make game with unity'
+- 👀 Program Language: C#, C++, Java, Python, Lua, Html
 - 🌱 I’m currently learning unity shader
 - 💞️ My gitcode : [https://gitcode.net/qq_34035956](https://gitcode.net/qq_34035956)
 - ✨ My blog : [https://blog.csdn.net/qq_34035956](https://blog.csdn.net/qq_34035956)
